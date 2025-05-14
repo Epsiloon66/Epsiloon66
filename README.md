@@ -51,12 +51,12 @@ Stacks I have worked with : Java, HTML+CSS+JS
 
 _Since you don't want to leave my profile just yet! Here are a few things you can do :_
 
-❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/guillermojimartnez/)
-or [![Gmail Badge](https://img.shields.io/badge/-aman.atg001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gjimartnez2@gmail.com)](mailto:gjimartnez2@gmail.com)
+❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Guillermo_Jiménez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillermojimartnez/)](https://www.linkedin.com/in/guillermojimartnez/)
+or [![Gmail Badge](https://img.shields.io/badge/-gjimartnez2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gjimartnez2@gmail.com)](mailto:gjimartnez2@gmail.com)
 
-❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/aman-atg?label=Follow&style=social)](https://github.com/aman-atg/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@aman_atg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
+❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/Epsiloon66?label=Follow&style=social)](https://github.com/Epsiloon66/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@epsiloon66-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/epsiloon66)](https://twitter.com/epsiloon66)
 and be a part of my journey... and See if I can make it or not!
 
-❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
+❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Guillermo_Jiménez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillermojimartnez/)](https://www.linkedin.com/in/guillermojimartnez/)
 
 <hr/>
